@@ -5,8 +5,8 @@ import requests
 from bs4 import BeautifulSoup
 import time
 
-MFPLINK = ""     # non mettere lo / finale al link
-MFPPSW = ""
+MFPLINK = "https://pigi87-omgtv.hf.space"     # non mettere lo / finale al link
+MFPPSW = "13021987"
 
 # Costanti
 M3U8_OUTPUT_FILE = "247ita.m3u8"
